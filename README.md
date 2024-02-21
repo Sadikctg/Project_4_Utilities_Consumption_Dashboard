@@ -38,17 +38,13 @@ It contains detailed information on gas consumption, including consumption trend
 ![Sheet 4](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0004.jpg)
 
 ### Summary and Recommendation:
-Water had the highest Total Cost at **$10,806,192**, followed by Gas at **$3,011,011**, and Electricity at **$2,025,296**. This substantial variance underscores the diverse cost structures and consumption patterns across different utilities.
-
-Among the five cities analyzed, Chicago emerged with the highest Total Cost, reaching **$2,846,179**, significantly surpassing Houston's lowest Total Cost at **$970,315** by a striking **193.33%**. This significant gap underscores the nuanced interplay of various factors, including infrastructure development, pricing models, and regulatory frameworks, which exert profound influences on energy usage patterns across different regions.
-
-Examining the broader spectrum of Total Cost across all five cities—Chicago, Houston, New York, Los Angeles, and Phoenix—it becomes evident that the range is considerable, spanning from **$970,315** to **$2,846,179**. This diversity reflects the varying levels of demand, resource availability, and operational efficiencies across these urban centers.
-
-Furthermore, delving into temporal analysis reveals a discernible uptrend in gas costs starting from 2019, rising by **2.61%** in just 8 months. The fluctuating nature of gas consumption may stem from factors such as market dynamics, seasonal variations in heating demand, or shifts in industrial activity. Understanding these fluctuations is crucial for optimizing gas utilization and ensuring reliable energy supply.
-
-Water consumption fluctuates over time, yet consistently incurs the highest total cost among utilities, comprising 88.49% of total units consumed. This underscores the importance of optimizing operational efficiencies, identifying leaks, and mitigating inefficiencies for sustainable resource management. Prioritizing investments in water infrastructure and conservation measures is crucial for enhancing water resilience and mitigating environmental impact.
-
-Electricity usage is steadily rising, indicating increasing demand. This emphasizes the urgency of implementing efficient energy management practices and sustainable solutions to meet demand while mitigating environmental harm.
+1. Water had the highest Total Cost at **$10,806,192**, followed by Gas at **$3,011,011**, and Electricity at **$2,025,296**. This substantial variance underscores the diverse cost structures and consumption patterns across different utilities.
+2. Among the five cities analyzed, Chicago emerged with the highest Total Cost, reaching **$2,846,179**, significantly surpassing Houston's lowest Total Cost at **$970,315** by a striking **193.33%**. This significant gap underscores the nuanced interplay of various factors, including infrastructure development, pricing models, and regulatory frameworks, which exert profound influences on energy usage patterns across different regions.
+3. Examining the broader spectrum of Total Cost across all five cities—Chicago, Houston, New York, Los Angeles, and Phoenix—it becomes evident that the range is considerable, spanning from **$970,315** to **$2,846,179**. This diversity reflects the varying levels of demand, resource availability, and operational efficiencies across these urban centers.
+4. Furthermore, delving into temporal analysis reveals a discernible uptrend in gas costs starting from 2019, rising by **2.61%** in just 8 months. Understanding these fluctuations is crucial for optimizing gas utilization and ensuring reliable energy supply.
+5. Water consumption fluctuates over time, yet consistently incurs the highest total cost among utilities, comprising 88.49% of total units consumed. This underscores the importance of optimizing operational efficiencies, identifying leaks, and mitigating inefficiencies for sustainable resource management.
+6. Prioritizing investments in water infrastructure and conservation measures is crucial for enhancing water resilience and mitigating environmental impact.
+7. Electricity usage is steadily rising, indicating increasing demand. This emphasizes the urgency of implementing efficient energy management practices and sustainable solutions to meet demand while mitigating environmental harm.
 
 
 
