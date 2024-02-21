@@ -3,8 +3,8 @@
 ### About the Dataset:
 The utilities (water, gas, and electricity) consumption dataset delves into consumption types, total costs incurred (for water, gas, and electricity), units consumed, and other relevant factors. The dataset spans from 2016 to 2019 and covers several cities across the United States.
 
-### Objectives:
-The objective is to provide a comprehensive understanding of overall utility usage patterns, uncovering insights into consumption trends, cost dynamics, and potential areas for optimization or efficiency improvements across multiple utility sectors. Examining consumption trends across different utilities enables us to gain valuable insights into resource usage patterns, identify opportunities for conservation, and promote sustainability and cost-effectiveness in utility management.
+### Objective:
+Analyzing utility usage patterns facilitates a comprehensive understanding of consumption trends, cost dynamics, and optimization opportunities across multiple sectors. By examining consumption trends across various utilities, valuable insights into resource usage patterns emerge, enabling the identification of conservation opportunities and the promotion of sustainability and cost-effectiveness in utility management.
 
 ### Eight Essential Steps:
 1. **Data Collection**: Gather consumption data for gas, electricity, and water from reliable sources, ensuring inclusion of timestamps and relevant variables.
@@ -36,11 +36,6 @@ It provides detailed insights into electricity consumption, including consumptio
 It contains detailed information on gas consumption, including consumption trends, cost breakdowns, and geographical distribution, aiding in comprehensive analysis and strategic decision-making.
 
 ![Sheet 4](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0004.jpg)
-
-
-
-
-
 
 ### Summary and Recommendation:
 Water had the highest Total Cost at **$10,806,192**, followed by Gas at **$3,011,011**, and Electricity at **$2,025,296**. This substantial variance underscores the diverse cost structures and consumption patterns across different utilities.
