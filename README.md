@@ -1,3 +1,5 @@
+## Utilities Consumption Dashboard
+![Utilities Consumption Dashboard](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/cover_image.png)
 ### About the Dataset:
 The utilities (water, gas, and electricity) consumption dataset delves into consumption types, total costs incurred (for water, gas, and electricity), units consumed, and other relevant factors. The dataset spans from 2016 to 2019 and covers several cities across the United States.
 
@@ -13,6 +15,32 @@ The objective is to provide a comprehensive understanding of overall utility usa
 6. **Calculate Key Metrics**: Utilize Power BI's data modeling capabilities to compute essential metrics such as average daily consumption and peak usage periods.
 7. **Incorporate Additional Data Sources**: Integrate external datasets like weather data or occupancy statistics to enrich the analysis.
 8. **Create a Storyline**: Develop a cohesive narrative within the dashboard, guiding users through key insights and implications derived from the data analysis.
+<br>
+
+### Sheet 1: 
+It provides a comprehensive overview of gas, water, and electricity consumption. Visual elements such as cards, slicers, a donut chart, and a stacked column chart offer insights into consumption trends and patterns, facilitating easy interpretation and analysis of utility usage data.
+
+![Sheet 1](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0001.jpg)
+
+### Sheet 2:
+It provides in-depth insights into water consumption patterns, including total usage, cost breakdowns, and trends over time, facilitating comprehensive analysis and informed decision-making regarding water resource management.
+
+![Sheet 2](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0002.jpg)
+
+### Sheet 3:
+It contains detailed information on gas consumption, including consumption trends, cost breakdowns, and geographical distribution, aiding in comprehensive analysis and strategic decision-making.
+
+![Sheet 3](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0003.jpg)
+
+### Sheet 4:
+It provides detailed insights into electricity consumption, including consumption trends, peak usage periods, and cost breakdowns, facilitating informed decision-making and resource optimization strategies.
+
+![Sheet 4](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0004.jpg)
+
+
+
+
+
 
 ### Summary and Recommendation:
 Water had the highest Total Cost at **$10,806,192**, followed by Gas at **$3,011,011**, and Electricity at **$2,025,296**. This substantial variance underscores the diverse cost structures and consumption patterns across different utilities.
