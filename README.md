@@ -28,12 +28,13 @@ It provides in-depth insights into water consumption patterns, including total u
 ![Sheet 2](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0002.jpg)
 
 ### Sheet 3:
-It contains detailed information on gas consumption, including consumption trends, cost breakdowns, and geographical distribution, aiding in comprehensive analysis and strategic decision-making.
+It provides detailed insights into electricity consumption, including consumption trends, peak usage periods, and cost breakdowns, facilitating informed decision-making and resource optimization strategies.
 
 ![Sheet 3](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0003.jpg)
 
 ### Sheet 4:
-It provides detailed insights into electricity consumption, including consumption trends, peak usage periods, and cost breakdowns, facilitating informed decision-making and resource optimization strategies.
+It contains detailed information on gas consumption, including consumption trends, cost breakdowns, and geographical distribution, aiding in comprehensive analysis and strategic decision-making.
+
 
 ![Sheet 4](https://github.com/Sadikctg/Project_4_Utilities_Consumption_Dashboard/blob/main/images/Utilities%20Consumption%20Dashboard_page-0004.jpg)
 
