@@ -16,7 +16,6 @@ Analyzing utility usage patterns facilitates a comprehensive understanding of co
 7. **Incorporate Additional Data Sources**: Integrate external datasets like weather data or occupancy statistics to enrich the analysis.
 8. **Create a Storyline**: Develop a cohesive narrative within the dashboard, guiding users through key insights and implications derived from the data analysis.
 <br>
-
 ### Sheet 1: 
 It provides a comprehensive overview of gas, water, and electricity consumption. Visual elements such as cards, slicers, a donut chart, and a stacked column chart offer insights into consumption trends and patterns, facilitating easy interpretation and analysis of utility usage data.
 
